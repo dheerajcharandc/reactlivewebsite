@@ -1,0 +1,54 @@
+.experience__container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2rem 1.5rem;
+}
+
+.experience__content{
+    background: var(--color-bg-variant);
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    text-align: center;
+    transition: var(--transition);
+    height:max-content;
+}
+.experience__content:hover{
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+}
+
+.experience__content-icon{
+    font-size: 4.5rem;
+    color: var(--color-white);
+}
+
+.experience__content h3{
+    margin: 1rem 0;
+}
+.grey__progressBar{
+    background-color: var(--color-light);
+    border-radius: 2rem;
+    width: 100%;
+}
+
+.progressBar__percentage{
+    height: 0.5rem;
+    background-color: var(--color-primary);
+    border-radius: 2rem;
+}
+
+@media screen and (max-width:1024px) {
+    .experience__container{
+     grid-template-columns: 1fr 1fr;
+     gap: 1rem;
+    }
+ }
+ 
+ @media screen and (max-width:600px) {
+   .experience__container{
+    grid-template-columns: 1fr;
+     gap: 1rem;
+   }
+ }

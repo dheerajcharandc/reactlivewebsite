@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-personal-portfolio/static/css/main.4b252d0a.css",
+    "main.js": "/my-personal-portfolio/static/js/main.f3fa45b7.js",
+    "static/media/portfolio3.png": "/my-personal-portfolio/static/media/portfolio3.c6b071a81a5f61d3dd6d.png",
+    "static/media/DHEERAJCV.pdf": "/my-personal-portfolio/static/media/DHEERAJCV.c30ff23d9f5e73dd37a5.pdf",
+    "static/media/portfolio4.png": "/my-personal-portfolio/static/media/portfolio4.e7445ec4ccf365493fcd.png",
+    "static/media/mee.png": "/my-personal-portfolio/static/media/mee.0969d8b281e8cdacdad2.png",
+    "static/media/ce1su.jpeg": "/my-personal-portfolio/static/media/ce1su.ef638cb294eb7f546aa5.jpeg",
+    "static/media/ce2mo.jpeg": "/my-personal-portfolio/static/media/ce2mo.2b9159c06bf5cac36fa9.jpeg",
+    "static/media/portfolio2.png": "/my-personal-portfolio/static/media/portfolio2.794e9d5d901b1bc10cb1.png",
+    "static/media/ce3busi.jpeg": "/my-personal-portfolio/static/media/ce3busi.915586f6d4b7f491cbff.jpeg",
+    "index.html": "/my-personal-portfolio/index.html",
+    "main.4b252d0a.css.map": "/my-personal-portfolio/static/css/main.4b252d0a.css.map",
+    "main.f3fa45b7.js.map": "/my-personal-portfolio/static/js/main.f3fa45b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b252d0a.css",
+    "static/js/main.f3fa45b7.js"
+  ]
+}
